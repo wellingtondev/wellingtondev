@@ -1,6 +1,6 @@
 # Wellington Felipe 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellingtonfelipi)](https://github.com/wellingtonfelipi)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellingtonfelipi)](https://github.com/wellingtondev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developer-wellington/)](https://www.linkedin.com/in/developer-wellington/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonfdev@gmail.com)](mailto:wellingtonfdev@gmail.com)
 
@@ -16,7 +16,7 @@ My name is Wellington and I'm Full stack developer. Enthusiastic about new techn
 - 🎓 Software Enginner student - Graduated in Information Systems
 
 <!--
-**wellingtonfelipi/wellingtonfelipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wellingtondev/wellingtondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
