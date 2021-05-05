@@ -1,8 +1,17 @@
 # Wellington Felipe 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellingtonfelipi)](https://github.com/wellingtondev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developer-wellington/)](https://www.linkedin.com/in/developer-wellington/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonfdev@gmail.com)](mailto:wellingtonfdev@gmail.com)
+###  Social Medias :octocat:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellingtonfelipi)](https://github.com/wellingtondev) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developer-wellington/)](https://www.linkedin.com/in/developer-wellington/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonfdev@gmail.com)](mailto:wellingtonfdev@gmail.com) 
+
+
+[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/wellingtondeveloper)](https://gitlab.com/wellingtondeveloper) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/wellingtondeveloper/)](https://www.facebook.com/wellingtondeveloper/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wellingtondev2)](https://twitter.com/wellingtondev2) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/devmacgyver/)](https://www.instagram.com/devmacgyver/) 
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/ms6vuyBP)](https://discord.gg/ms6vuyBP) 
 
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
