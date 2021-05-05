@@ -7,9 +7,9 @@
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
 
-My name is Wellington and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in javaScript and NodeJs technologies. Seeking to expand knowledge, aligning knowledge in software development and engineering studies.
+My name is Wellington and I'm Software Engineer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in javaScript and NodeJs technologies. Seeking to expand knowledge, aligning knowledge in software development and engineering studies.
 
-- :office_worker: I’m currently working at Alta Genetics as Systems Analyst, working with AngularJs (1.x), Html, CSS, BootStrap, Jquery, Telerik, .NET CORE MVC , C#, Azure DevOPS, SQLSERVER.
+- :office_worker: I’m currently working at Tribanco as Software Engineer, working with ReactJS, Html, CSS, BootStrap, Jquery, Hooks, JAVA 8, SPRING BOOT, API REST , API GATEWAY , Docker , ORACLE.
 - 💻 I’m currently learning ReactJs, React Native, NextJs and GatsbyJS.
 - :books: Reading the Clean Code Book, to improve my skills in writing good codes.
 - 😄 I love JavasSript and TypeScript.
